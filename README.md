@@ -1,7 +1,7 @@
 ### Links and stuff ###
 
-http://code.google.com/p/macvim/ 
-http://learnable.com 
+http://code.google.com/p/macvim/
+http://learnable.com
 http://sitepoint.com 
 http://github.com/snikchnz
 http://git-scm.com/ 
